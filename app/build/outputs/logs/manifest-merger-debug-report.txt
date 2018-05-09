@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-34:12
+MERGED from [com.android.support:design:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f4c64522c972250c074f2c638c8de8e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d220aab5b1fd183ea7f77e62dabc5732/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/71495b5bb8c540d0447cd401eb8c3130/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/0f65757bb367a9549395c27a5989eaca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dad92868ff3659e40eca6b84719670ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/99df0b928afc6933c372974c22b4655d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9dfbcabdf279af4ea3ad8cace95727af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/02c247762cc4497567831cc39c49bb2a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a3384eb156525abc708584d4625ec653/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/47235dcce17843d62c0a8c6410471e47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/487666d458bf2c4b1de75f8efda02a51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d707a6f7aec4d409ab94d3318ba67736/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/403ee165b8b7866b4ff74fe25a2c111b/AndroidManifest.xml:17:1-22:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-exo-0.8.8.aar/d550e6a31976b27ea20a0a12bc3e8d29/AndroidManifest.xml:2:1-15:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-java-0.8.8.aar/01e27b6ace609e7e278c634ebe2642d5/AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv7a-0.8.8.aar/cf4ff538f952aff3aa67cff9aa2a4f63/AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv5-0.8.8.aar/d72e29382ec80d96066ba46a305938f3/AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-x86-0.8.8.aar/74182065e52bce0c043e796c28acc21d/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f52fda96b3902c088ba6675d10dac1e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/197a8904b391eb8a06877aa6517e8cee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] /Users/majian/.gradle/caches/transforms-1/files-1.1/exoplayer-r1.5.11.aar/1d8156d660c68f6a47b8e2e24629ef1f/AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/934e59efcb7ed666904c00dd06c68f2b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/47310fd8a2dcb6203eaeecad04472803/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:3:11-57
+		INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-79
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:7:5-68
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-68
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:8:5-75
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-75
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:9:5-81
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-81
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-81
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:10:5-80
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-80
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:11:5-73
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:5-73
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:11:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:12:5-66
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-66
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:13:5-84
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-84
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-84
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-84
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:5-84
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:13:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:14:5-79
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:5-79
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:15:5-76
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:5-76
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:15:22-73
+application
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:17:5-32:19
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-32:19
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-32:19
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-exo-0.8.8.aar/d550e6a31976b27ea20a0a12bc3e8d29/AndroidManifest.xml:9:5-13:19
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-exo-0.8.8.aar/d550e6a31976b27ea20a0a12bc3e8d29/AndroidManifest.xml:9:5-13:19
+	android:supportsRtl
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:22:9-40
+activity#com.miaoyongjun.administrator.mvideo.MainActivity
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:23:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.miaoyongjun.mdragvideo.DragVideoActivity
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:30:9-80
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:9-31:50
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:9-31:50
+	android:theme
+		ADDED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:30:19-78
+activity#com.miaoyongjun.administrator.mvideo.DisplayActivity
+ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:31:9-52
+	android:name
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml:31:19-50
+uses-sdk
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:mdragvideo] /Users/majian/Downloads/MVideo-master/mdragvideo/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f4c64522c972250c074f2c638c8de8e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f4c64522c972250c074f2c638c8de8e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d220aab5b1fd183ea7f77e62dabc5732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d220aab5b1fd183ea7f77e62dabc5732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/71495b5bb8c540d0447cd401eb8c3130/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/71495b5bb8c540d0447cd401eb8c3130/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/0f65757bb367a9549395c27a5989eaca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/0f65757bb367a9549395c27a5989eaca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dad92868ff3659e40eca6b84719670ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/dad92868ff3659e40eca6b84719670ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/99df0b928afc6933c372974c22b4655d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/99df0b928afc6933c372974c22b4655d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9dfbcabdf279af4ea3ad8cace95727af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9dfbcabdf279af4ea3ad8cace95727af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/02c247762cc4497567831cc39c49bb2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/02c247762cc4497567831cc39c49bb2a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a3384eb156525abc708584d4625ec653/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a3384eb156525abc708584d4625ec653/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/47235dcce17843d62c0a8c6410471e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/47235dcce17843d62c0a8c6410471e47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/487666d458bf2c4b1de75f8efda02a51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/487666d458bf2c4b1de75f8efda02a51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d707a6f7aec4d409ab94d3318ba67736/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d707a6f7aec4d409ab94d3318ba67736/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/403ee165b8b7866b4ff74fe25a2c111b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/majian/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/403ee165b8b7866b4ff74fe25a2c111b/AndroidManifest.xml:20:5-44
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-exo-0.8.8.aar/d550e6a31976b27ea20a0a12bc3e8d29/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-exo:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-exo-0.8.8.aar/d550e6a31976b27ea20a0a12bc3e8d29/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-java-0.8.8.aar/01e27b6ace609e7e278c634ebe2642d5/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-java-0.8.8.aar/01e27b6ace609e7e278c634ebe2642d5/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv7a-0.8.8.aar/cf4ff538f952aff3aa67cff9aa2a4f63/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv7a-0.8.8.aar/cf4ff538f952aff3aa67cff9aa2a4f63/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv5-0.8.8.aar/d72e29382ec80d96066ba46a305938f3/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv5-0.8.8.aar/d72e29382ec80d96066ba46a305938f3/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-x86-0.8.8.aar/74182065e52bce0c043e796c28acc21d/AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.8] /Users/majian/.gradle/caches/transforms-1/files-1.1/ijkplayer-x86-0.8.8.aar/74182065e52bce0c043e796c28acc21d/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f52fda96b3902c088ba6675d10dac1e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f52fda96b3902c088ba6675d10dac1e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/197a8904b391eb8a06877aa6517e8cee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/197a8904b391eb8a06877aa6517e8cee/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] /Users/majian/.gradle/caches/transforms-1/files-1.1/exoplayer-r1.5.11.aar/1d8156d660c68f6a47b8e2e24629ef1f/AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.11] /Users/majian/.gradle/caches/transforms-1/files-1.1/exoplayer-r1.5.11.aar/1d8156d660c68f6a47b8e2e24629ef1f/AndroidManifest.xml:24:5-26:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/934e59efcb7ed666904c00dd06c68f2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/934e59efcb7ed666904c00dd06c68f2b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/47310fd8a2dcb6203eaeecad04472803/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/majian/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/47310fd8a2dcb6203eaeecad04472803/AndroidManifest.xml:20:5-44
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/majian/Downloads/MVideo-master/app/src/main/AndroidManifest.xml

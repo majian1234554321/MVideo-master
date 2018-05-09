@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/majian/Downloads/MVideo-master/mdragvideo/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/majian/Downloads/MVideo-master/mdragvideo/src/debug/jniLibs"/></dataSet></merger>

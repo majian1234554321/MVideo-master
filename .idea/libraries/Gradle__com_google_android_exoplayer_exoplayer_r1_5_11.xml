@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.exoplayer:exoplayer-r1.5.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mdragvideo/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.11/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/mdragvideo/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.11/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+#Wed May 09 12:30:00 CST 2018
+base.0=/Users/majian/Downloads/MVideo-master/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
